@@ -1331,7 +1331,7 @@ scikit-survival
 scikits.odes
 scilab
 scip
-scipy
+
 scitokens
 scitokens-cpp
 scotch
